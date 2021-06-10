@@ -1,0 +1,21 @@
+body {
+    background-color: #87ceff;
+}
+
+.resp {
+    border: solid 5px #ffcccb;
+    padding: 20px;
+    text-align: center;
+    display: none;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qcount {
+    text-align: right;
+}
